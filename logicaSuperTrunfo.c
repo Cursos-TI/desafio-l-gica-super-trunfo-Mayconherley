@@ -12,7 +12,7 @@ int main() {
     int pontosTuristicos1, pontosTuristicos2;
     float densidadePop1, densidadePop2;
 
-    // Cadastro da primera carta
+    // Cadastro da primeira carta
     printf("Cadastro da carta 1\n");
     printf("Estado: ");
     scanf("%s", estado1);
@@ -29,7 +29,7 @@ int main() {
     printf("Pontos turísticos: ");
     scanf("%d", &pontosTuristicos1);
 
-    // Cadastro da primera carta    
+    // Cadastro da segunda carta    
     printf("\nCadastro da carta 2\n");
     printf("Estado: ");
     scanf("%s", estado2);
